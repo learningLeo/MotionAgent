@@ -26,7 +26,7 @@ Python 3.6 or above
    - **Astar.py**: A*算法实现
    - **Bidirectional_a_star.py**： 双向A*算法实现
 5. **Dijkstra_pure_pid.py**： Dijkstra规划算法 + Reeds-Shepp路径 + Pure_Pursuit横向控制 + PID纵向控制
-6. **Dijkstra_rear_wheel_pid.py**：Dijkstra规划算法 + Reeds-Shepp路径 + Rear_Wheel_Feedback横向控制 + PID纵向控制
+6. **Dijkstra_rear_wheel_pid.py**： Dijkstra规划算法 + Reeds-Shepp路径 + Rear_Wheel_Feedback横向控制 + PID纵向控制
 7. **Astar_pure_pid.py**： Astar规划算法 + Reeds-Shepp路径 + Pure_Pursuit横向控制 + PID纵向控制
 8. **Astar_rear_wheel_pid.py**： Astar规划算法 + Reeds-Shepp路径 + Rear_Wheel_Feedback横向控制 + PID纵向控制
 9. **biAstar_pure_pid.py**： biAstar规划算法 + Reeds-Shepp路径 + Pure_Pursuit横向控制 + PID纵向控制
