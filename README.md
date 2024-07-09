@@ -33,3 +33,13 @@
 9. **biAstar_pure_pid.py**： biAstar规划算法 + Reeds-Shepp路径 + Pure_Pursuit横向控制 + PID纵向控制
 10. **biAstar_rear_wheel_pid.py**: biAstar规划算法 + Reeds-Shepp路径 + Rear_Wheel_Feedback横向控制 + PID纵向控制
 
+
+## 运行
+
+```sh
+python Dijkstra_pure_pid.py
+python Dijkstra_rear_wheel_pid.py
+python Astar_pure_pid.py
+python Astar_rear_wheel_pid.py
+python biAstar_pure_pid.py
+python biAstar_rear_wheel_pid.py
