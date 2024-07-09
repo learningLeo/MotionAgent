@@ -6,8 +6,8 @@
 - [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning)
 
 ## 运行环境
-Conda虚拟环境
-Python 3.6 or above
+- Conda虚拟环境
+- Python 3.6 or above
 - [SciPy](https://scipy.org/)
 - [cvxpy](https://github.com/cvxgrp/cvxpy)
 
